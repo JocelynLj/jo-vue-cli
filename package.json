@@ -1,0 +1,24 @@
+{
+  "name": "jo-vue-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jo-vue-cli": "bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli-shared-utils": "^5.0.8",
+    "commander": "^10.0.0",
+    "ejs": "^3.1.9",
+    "globby": "^11.1.0",
+    "inquirer": "^8.2.5",
+    "isbinaryfile": "^5.0.0",
+    "javascript-stringify": "^2.1.0"
+  }
+}
